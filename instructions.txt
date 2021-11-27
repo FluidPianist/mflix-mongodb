@@ -1,0 +1,6 @@
+delete the package.lock.json  folder before running npm install
+
+if there is still problem or you ran npm install before removing lock.json then use
+npm install --legacy-peer-dep 
+then npm audit --fix-force
+

@@ -1,0 +1,7 @@
+**************************BLUEPRINT FOR CREATING A FULL FLEDGED APPLICATION*******************
+1. Create a folder with the name of ur project.
+2. Go inside it and declare it as git repository by typing git init
+3. Now type npm install express-generator
+   express backend
+   npm install 
+  
